@@ -72,7 +72,6 @@ namespace BasicFacebookFeatures
 
                 m_LoggedInUser = m_LoginResult.LoggedInUser;
                 InitializePageData();
-                //fetchUserInfo();
             }
             else
             {
